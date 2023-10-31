@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+polars_project/
 
 # C extensions
 *.so
